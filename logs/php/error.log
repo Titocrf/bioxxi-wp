@@ -1,0 +1,4 @@
+[23-Oct-2024 13:32:33 UTC] Erro de evento de reagendamento do cron para o gancho: action_scheduler_run_queue, código de erro: could_not_set, mensagem de erro: Não foi possível salvar a lista de evento do cron, dados: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Oct-2024 21:17:20 UTC] PHP Warning:  Undefined array key "form_fields" in C:\Users\tione\Local Sites\bioxxi-servicos-de-esterilizacao\app\public\wp-content\plugins\elementor-pro\modules\forms\classes\ajax-handler.php on line 121
+[23-Oct-2024 21:18:43 UTC] PHP Warning:  Undefined array key "form_fields" in C:\Users\tione\Local Sites\bioxxi-servicos-de-esterilizacao\app\public\wp-content\plugins\elementor-pro\modules\forms\classes\ajax-handler.php on line 121
+[23-Oct-2024 21:19:00 UTC] PHP Warning:  Undefined array key "form_fields" in C:\Users\tione\Local Sites\bioxxi-servicos-de-esterilizacao\app\public\wp-content\plugins\elementor-pro\modules\forms\classes\ajax-handler.php on line 121
